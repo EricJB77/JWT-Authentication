@@ -1,2 +1,10 @@
-# JWT-Authentication
-JWT Authentication Node.js Tutorial with GraphQL and React
+# Full-stack project with JWT-Authentication
+
+Technologies used:
+Typescript
+GraphQL
+TypeGraphQL
+TypeORM
+PostgreSQL
+React
+Apollo
